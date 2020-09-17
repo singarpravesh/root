@@ -1,0 +1,194 @@
+---
+title: "Economic Planning"
+author: "Chapter 4 of the book [Indian Economy by Ramesh Singh](https://books.google.co.in/books?id=bmovDwAAQBAJ&pg=PT125&source=gbs_toc_r&cad=4#v=onepage&q&f=false)"
+
+date: "2020-09-07"
+output: 
+  ioslides_presentation:
+    css: highlight.css
+---
+
+## Reference
+Chapter 4 of the book [Indian Economy ](https://books.google.co.in/books?id=bmovDwAAQBAJ&pg=PT125&source=gbs_toc_r&cad=4#v=onepage&q&f=false) by **Ramesh Singh**
+
+## Outline
+1. Definitions of Economic Planning.
+2. Planning processes & Features
+3. Origin & expansion of planning
+4. Different types of planning
+5. Normative Indian planning in recent times.
+
+## What is economic plannning?
+- Definition given by H.D. Dickinson is agreed to be one of the best definitions:
+
+>“the making of major economic decisions—what and how much is to be produced and to whom it is to be allocated by the conscious decision of a determinate authority, on the basis of a comprehensive survey of the economic system as a whole.”
+
+---
+
+- In India, the National Planning Committee, set up in 1938 defines economic planning as:
+
+>*“Planning, under a democratic system, may be defined as the technical coordination, by disinterested experts of consumption, production, investment, trade, and income distribution, in accordance with social objectives set by bodies representative of the nation. Such planning is not only to be considered from the point of view of economics, and raising of the standard of living, but must include cultural and spiritual values, and the human side of life.”*
+
+---
+
+- 1930s: Political consensus that independent India would be a planned economy.
+- 1950s: India commenced economic planning.
+- According to the Planning Commission of India:
+
+>*“Planning involves the acceptance of a clearly defined system of objectives in terms of which to frame overall policies. It also involves the formation of a strategy for promoting the realisation of ends defined. Planning is essentially an attempt at working out a rational solution of problems, an attempt to coordinate means and ends; it is thus different from the traditional hit-and-miss methods by which reforms and reconstruction are often undertaken”.*
+
+---
+
+- Post-war period has seen changes in the idea of economic planning.
+- A more contemporary definition would be:
+
+>*"A process of realising well-defined goals by optimum utilisation of the available resources".*
+
+---
+
+- An economic plan is a set of specific economic targets.
+- Targets need to be achieved within a time and with a stated strategy.
+- **Comprehensive Plan**: sets targets to cover all major aspects of the economy.
+- **Partial Plan**: set targets for a part of the economy (agriculture, industry, etc.)
+
+---
+
+- Planning Process:
+  1. Choose social objectives
+  2. Set economic targets
+  3. Organise a framework for implementing, coordinating and monitoring the plan.
+
+---
+
+- The idea of planning first emerged in its applied form.
+- The direction is from practice to theory.
+- The planning process thus "evolved" out of experiences of different countries.
+
+---
+
+**Features of the working definition of economic planning:**
+
+<ol start=1><li>**Planning is a process**</ol>
+  - As needs change, the scope of planning process must undergo changes.
+  - Planning is not an end in itself.
+  
+<ol start=2><li>**Planning must have well defined goals**</ol>
+  - This will ensure government's intervention to be democratically justified and transparent.
+  
+---
+
+**Features of the working definition of economic planning:**
+  
+<ol start=3><li>**Optimum utilisation of resources**</ol>
+  With the advent of the idea of "sustainability" in 1987, resources need to be "optimally" utilised and not "maximised".
+  
+## Origin and expansion of planning 
+<ol start=1><li>**Regional Planning**</ol>
+  - Planning started at a regional level at first.
+  - [Tennessee Valley Authority (TVA)](https://www.u-s-history.com/pages/h1653.html) was set up by USA in 1916.
+  - This US regional planning became a role model.
+  - Inspired projects include the [Damodar Valley Corporation (DVC)](http://indianpowersector.com/home/2010/09/dvc/) in India (1948), the [Volta River Project in Ghana (1966)](https://newafricanmagazine.com/16321/).
+    
+
+---
+
+<ol start=2><li> **National Planning** </ol>
+  - The official experiment of national planning was the [Bolshevik Revolution
+of Russia (1917)](https://www.historians.org/about-aha-and-membership/aha-history-and-archives/gi-roundtable-series/pamphlets/em-46-our-russian-ally-(1945)/what-was-the-bolshevik-revolution).
+  - In 1928 Joseph Stalin introduced the policy of central planning for the Soviet Union. 
+  - First experience of national planning - the first five year plan 1928-33 of the Soviet Union.
+  - Famous slogan - ["Great leap forward"](https://chineseposters.net/themes/great-leap-forward.php)- aimed at rapid industrialisation through economic planning.
+  - India's influence on Soviet planning- emphasis over heavy industries.
+  - Planning spreads to China and Eastern European economies after World War II.
+
+## Types of Planning
+**During the course of evolution, planning has been classified into types:**
+<ol start=1><li>**Imperative Planning**</ol>
+  - Followed by the state economies (socialist/communist).
+  - Also known as **directive/target planning**.
+  - All economic decisions centralised at the hands of the state.
+  - Communist China- all resources including labour were centralised - purest example of such planning.
+  - Soviet Planning - all resources centralised except labour - some "market" did exist.
+ 
+
+## Types of Planning
+**During the course of evolution, planning has been classified into types:**
+<ol start=1><li>**Imperative Planning**</ol>
+  - Basic features of socialist planning:
+    - Quantitative targets of growth and development.
+    - State controls the right over resources.
+    - No role for the market: price mechanism do not work.
+    - No private participation in the economy.
+    
+---
+
+<ol start=2><li>**Indicative Planning**</ol>
+- After the Russian planning, the idea of planning spread over the democratic world.
+- Countries that were neither socialist/ communists nor state economies, their planning structure were different - Indicative planning.
+- Key features of Indicative planning:
+  - Mixed economies followed indicative planning.
+  - Works through market (price) system.
+  - Quantitative targets (as in imperative planning) are also announced.
+  - Policies can encourage or discourage private sector.
+  
+---
+
+- The Indian planning was indicative in nature with a heavy inclination towards imperative planning.
+- The focus only changed after economic reforms in 1991.
+- Revival of the role of markets -> economomies use indicative planning -> states role reduced substantially.
+
+---
+
+- Other types of planning depending on the point of view we are looking at:
+
+```{r, echo=FALSE, warning=FALSE, message=FALSE}
+library(tidyverse)
+d <- tibble::tibble(`Point of View` = c("Territorial", "Political", "Participatory", "Temporal", "Value"), `Types of Planning` = c("Regional or National", "Central, State or Local", "Centralised or Decentralised", "Long-term or Short-term", "Economic or Developmental"))
+knitr::kable(d) %>% 
+kableExtra::kable_styling(d, bootstrap_options = c("hover", "striped"), full_width = FALSE)
+```
+
+---
+
+- **Systems Planning**
+  - Gives less emphasis on the social and institutional dimensions.
+  - Searches for best possible results in relation to established goals.
+
+- **Normative Planning**
+  - Due importance to socio-institutional factors like caste, creed, religion, region, language, family,etc.
+  
+- The *Economic Survey 2010-11* of the Govt. of India is first document which advocates normative planning in India.
+  - It is important that the programmes and schmes of the govt. must be able to connect with the customs, traditions and ethos of the population.
+  - Establishing a relationship between schemes and target population is an important aspect of policy making.
+
+---
+
+- In Jan 2015, **NYTI Aayog** replaces the Planning Commission.
+- The functions and guiding principles of the body indicate that India has officially moved towards **normative planning**.
+- The body follows a *development model* which is
+
+>*"all round, all pervasive, all inclusive and holistic".*
+
+- Also, in this process the NITI Aayog has been further asked to enable the country to draw on the vitality and energy of the bedrock of our *ethos*, *culture* and *sustenance*.
+
+---
+
+- Similarly, the Economics Survey 2015-16 recognises the importance of influencing the *social norms*:
+  - persuading the rich to give up subsidies tha they do not need. Read about the [GiveItUp Campaign](https://www.givitup.in/about.html).
+  - reducing social prejudices about girls.
+  - educating people about the health externalities of open defecation, and
+  - encouraging citizens to keep public spaces clean.
+
+---
+
+- Today, governments all over the world have embarked on systematic ways of studying how to promote behavioural change. 
+- The importance and need of behavioural change were highlighted by the World Development Report 2015 (World Bank), too. 
+- All such policy interventions are examples of normative policymaking.
+
+## Questions:
+1. What can you make out from the various definitions about the concept of economic planning?
+2. Discuss some of the features of economic planning (working definiton).
+3. Write a brief note on the origin and expansion of planning.
+4. How do imperative and indicative plannnings differ? Briefly explain.
+5. What is normative planning? Do you think India is on the path to normative planning? Explain.
+  

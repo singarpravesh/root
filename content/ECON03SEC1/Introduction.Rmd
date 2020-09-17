@@ -1,0 +1,24 @@
+---
+title: "Introduction"
+author: "pravesh"
+date: "2020-09-17"
+output: html_document
+---
+
+- We shall use Microsoft Excel 2013 during the course. So I would suggest the class to install the 2013 version in their computers.
+- Go through the [syllabus](http://presiuniv.ac.in/web/cbcs/Economics-CBCS-PU-2018.pdf) uploaded in the university website.
+- The reference book is [Microsoft Excel 2013: Data Analysis and Business Modeling](https://books.google.co.in/books?id=NLxCAwAAQBAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false) by **Wayne L. Winston**.
+
+---
+
+## What should you know before reading this book?
+- Formulas should begin with an = sign.
+- `*` is used for multiplication, / for division, ^ is used to raise a quantity to a power.
+- **Absolute cell reference**: For example `$A$4` keeps the value at cell `A4` constant throughout any operation.
+- **Mixed cell reference**: For example `$A4` keeps column A constant and row 4 variable. Similarly, `A$4` keeps row 4 constant and column A variable.
+
+## Absolute and Mixed Reference example.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-SZzoOTPYo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+

@@ -1,0 +1,468 @@
+---
+title: 'The Recovery of India: Economic Growth in the Nehru Era'
+subtitle: "by Pulapre Balakrishnan"
+author: "ECON03GE3A"
+output: ioslides_presentation
+---
+
+
+## References
+- [Visible Hand: Public Policy and Economic Growth in the Nehru Rea](https://core.ac.uk/download/pdf/19918818.pdf)
+- [The Recovery of India](https://www.jstor.org/stable/40276833?seq=1#page_scan_tab_contents)
+
+## Introduction
+- Paper written by PB in 2007 when Indian economy was growing at around 9% (constant prices).
+- A certain despondency induced by a sense of an allegedly "wasted past".
+- Some have blamed Nehru and the policies adopted under his leadership.
+- These are serious allegations that need to be addressed.
+
+---
+
+- Economic growth researchers more interested in **growth transitions**.
+- The most significant  break of the century is centered around 1950.
+- Why is this period a watershed as far as economic growth in India is concerned?
+- Post-colonial economic policy aimed to make a break from the immediate past.
+  + one is led to look into the relationship between public policy and economic growth in the Nehru era.
+
+---
+
+- Understanding the **relationship between public policy and economic growth in the Nehru era** would serve two purposes:
+  + As the period appears to mark a growth transition, this understanding would give an idea of **what factors drive growth**?
+  + It was also a period of **high state-directedness**, so do such interventions facilitate growth, and how, if at all?
+
+## Nehru-Mahalanobis Strategy
+- This was mainly identified as the model for the Second Five-Year Plan (1956-61).
+- This was a model to serve the end of rapidly raising the level of income through accelerated growth.
+- Mahalanobis's model:
+  + 2 sector economy: capital and consumer goods
+  + closed economy without government
+  + GDP = Output of Capital + Output of Consumer goods.
+  + The capital good enters into the production function ofconsumer goods and itself.
+
+---
+
+- Mahalanobis's model:
+  + Capital is not subjected to diminishing returns (this was an interesting departure from economic theory).
+    + This implies that a **greater initial allocation of investment to the production of capital goods would leave the economy with a higher stock of the same** in the future.
+    + Greater allocation of investment $\Rightarrow$ higher stock of capital goods $\Rightarrow$ Higher future Investment.
+  + Given these conditions, the planner now has to determine what share of investment be allocated to the capital goods sector, given the target level of income.
+  + The model was basically meant as a **guide to a strategy for industrialisation**.
+  
+## The Heavy Goods Sector
+- **Heavy goods sector**: Machine building complexes with a large capacity for the manufacture of machinery to produce steel, chemical, fertilizer, electricity, transport equipment etc.
+- A fast growing heavy goods sector required a disproportionate investment in machine-building complexes.
+  + Since this sector inhibited long gestation lags, production would be slower in the short run as compared to the consumer goods sector.
+  + But in the long run it would enhance the productive capacity across the economy. 
+  
+---
+
+- The underlying idea of the model is a kind of **accounting** because;
+  + Estimate growth prospects based on current investment allocation
+  + Choose the allocation that maximises the rate of growth for any given investment outlay.
+
+
+## Criticism
+1. adopts a **lower social rate of discount** (loss of consumption in the short run) than could have been the case.
+  - In other words, the model makes a value judgment that *the loss of consumption (and thus welfare) that would occur in the short run has a lower social cost and is an acceptable sacrifice* on the part of the people.
+  - In return the people gets a *promise of an uncertain brighter future* under the presumption that more investment today would necessarily lead to a higher consumption level (and welfare) in the future.
+
+## Criticism
+<ol start=2>
+<li> The model was based on an **ideology**. </ol>
+  - The model had been inspired by the Feldman planning from the Soviet Union literature (even though Mahalanobis had denied it).
+- However, Nehru was quite sure that India would be able to avoid the political suppression that was there in the Soviet regime.
+  + Neither forced collectivization to raise agricultural growth, nor the suspension of democracy as a way of quelling dissent on the chosen strategy were conceivable to the Indian leadership.
+
+---
+
+- Therefore, a relevant criticism of the strategy would only be of its economic logic.
+- According to Desai (2007), Mahalanobis model has in it no unemployment, inflation or balance of payment.
+
+## Supply-side Model
+- There was a flaw in the model, but not related to ideology.
+- It was an accounting system and a supply-side model.
+- no  recognition  of  a possible demand constraint to capital accumulation
+- little scope for slackening demand growth to subvert the growth process. 
+- A model based on purely physical relationship between inputs and outputs would make sense only in a **command economy** unlike India.
+  + Investment in complete hands of the planners.
+- Ubiquitous private sector in India.
+
+---
+
+- In a command economy the surplus could be constantly re-invested irrespective of market signals, thus maintaining a more or less constant  growth  dynamic,  at  least  for  some time.
+- The only **constraint** to a seemingly endless growth in a **command economy** would be a **declining investible surplus**, which of course could also arise for entirely non-economic reasons such as political disaffection. 
+- But again, it is important to draw the distinction between **model** and **plan** as it were, and **the plan did explicitly recognize the role of demand**.
+
+---
+
+The author agrees to the first point (given below), but considers the second point to be an **ill-informed judgement** which he plans to explain later in the text.
+
+1. The Indian planners must have been carried away by the idea that the state (in command economy) could direct inverstment indefinitely and at will.
+2. They also failed to recognise the importance of agriculture.
+
+## Wage goods model
+- Plan for an alternative development for India, and a serious challenge to the Mahalanobis Plan
+- This was the plan presented by C.N.Vakil and P.R. Brahmananda of the [Bombay School](https://www.thehindubusinessline.com/opinion/throwback-to-an-earlier-debate/article20647733.ece1).
+- The centre-piece of the Vakil-Brahmananda Plan was a **wage-goods sector**.
+
+---
+
+- This model was sceptic about the Keynesian problematic (excess capacity) for India. 
+- According to Brahmananda, Keynesian unemployment assumes 'excess capacity' or underutilisation of available resources like stock of wage goods and other circulating capital.
+- Whereas in India “... unemployment of labour exists because supply of labour wage goods to sustain labour as a cooperant factor, with land and  labour  is  inadequate.”
+- He made a list of 14 wage-goods including "corn and clothing".
+
+---
+
+- Essentially for Vakil and Brahmananda, the multiplier mechanism cannot work in the absence of wage goods, and this led them to the proposition that **employment cannot expand without wage goods**.
+
+<div style="background-color: #cfc ; padding: 10px; border: 1px solid black;">
+ *“So you see, for these reasons, agricultural development  becomes  fundamental.  It  has  to  be  accorded  priority independent  of  whatever  you  posit  for  industry.”* </div>
+
+And even 50 years later,
+<div style="background-color: #cfc ; padding: 10px; border: 1px solid black;">
+*“The service and industry sectors cannot absorb more than a small proportion of the labour force.  The  service  sector  is  (more?)  important,  but  services  can  be  expanded only with growing wage goods surpluses.”*
+</div>
+  
+## Appraisal of Vakil-Brahmananda plan
+- In **focusing on unemployment** they had honed in on a key reality of India.
+- Also they accorded **centrality to agriculture**.
+- This  plan  appear  to  have  underestimated  the  importance  of  capital goods for raising agricultural production.
+  + They believed that these could have been imported in return for the wage goods.
+  + But  if wage goods were scarce enough to limit the expansion of employment in  the  first  place,  it  is  not  clear  how  easily  a  sufficient  export  surplus could  have  been  generated.
+  
+---
+
+- The **other issue** was that of competitiveness.
+  + What kind of goods could India supply in the world market?
+  + Goods like minor armaments, clothing and equipment - would no longer have been demanded to anything like the same extent after the War.
+  + The agricultural sector too had been unable to even adequately supply the domestic population during the first 50 years of 20th century.
+  + This apart, there was also the question of the very availability of capital goods to be purchased in the world market.
+  
+
+---
+
+<div style="background-color: #cfc ; padding: 10px; border: 1px solid black;">
+<blockquote>
+  <p> “In the years after the war, capital goods in the form of plant and machinery were extremely scarce; not only did India not have  any  capital  goods  industry  to  speak  of,  but  imports  from  the developed  world  were  not  on  the  near  horizon,  as  European  powers embarked on the reconstruction of their own economies and because the United States did not regard South Asia as a pivotal region. 
+  The problem with  plant  and  machinery  was  mirrored  by  the  problems  with  raw materials and intermediate goods, especially since, after partition, much of  the  Indian  cotton  and  raw  jute  was  now  in  Pakistan.  In  both  these cases,  businesses  constantly  called  for  the  assistance  of  the  state  insecuring the requisite import of goods.” </p> 
+<p>Chibber (2003), p. 147.</p></blockquote>
+</div>
+
+---
+
+- The very important **"engine of growth"** was missing in the **wage-goods-model**.
+<div style="background-color: #cfc ; padding: 10px; border: 1px solid black;">
+<blockquote>
+  <p> “If the system is expanding and you have a supply of food, people could stay in their homes and produce wage goods.” </p> 
+<p>Chibber (2003), p. 147.</p></blockquote>
+</div>
+- There is  no  autonomous  investment  function,  which  would  imply  that  the **demand for labour** gets determined in the goodsmarket -  independent of its price -  and, in the context of their framework, independent of whether there is an adequate supply of wage goods.
+
+---
+
+- There was a strange symmetry between the Mahalanobis and the wage-goods models
+  + with the former downplaying the importance of consumer goods and the later downplaying the importance of capital goods!
+- PB saw Mahalanobis better than VB strategy;
+  - According to PB, there is **no serious scheme for the transformation of the wage goods sector** in the Vakil-Brahmananda plan.
+  - At  least,  Mahalanobis  saw industrialisation as an input into agricultural growth, and industrialisation was  to  be  promoted  by  public  investment.
+  
+---
+
+Explaining its logic even before the launching of  the  Second  Plan  in  1956,  Mahalanobis  had  this  to  say: 
+<div style="background-color: #cfc ; padding: 10px; border: 1px solid black;">
+<blockquote>
+“The  basic strategy is (now) clear. We create demand by a planned expansion of the basic industries and of the social sector, that is, health, education, etc. We meet the demand by a planned increase in the production of consumergoods as much as possible in the small and household industries, and the rest in factories. As both production and income increase, we divert a portion of the increase in income for new investments again in a planned manner  to  balance  new  demand  by  new  production,  and  the  process continues. At each stage, we must be careful that the right quantity of raw materials is available at the right time for production; and the right quantity  of  consumer  goods  is  available  at  the  right  time  to  meet  the demand.” </blockquote></div>
+
+---
+
+- We can see that Mahalanobis model was a **plan without full control of prices in a private enterprise economy**.
+- There is a criticism of the Mahalanobis model **being violative of economic freedoms due to its reliance on controls**.
+- Howewver, PB is more critical about the Vakil-Brahmananda plan:
+  + once employment rather than output is targetted it is difficult to conceive of re-allocation of labour without envisaging forced migration.
+  + Nehru believed in 'progress by consent' as opossed to a 'direct force in shaping development'.
+  
+## Link between Agriculture and Industry
+- According to PB, Mahalanobis "had incorporated this awareness (on agriculture sector) into his strategy".
+- Mahalanobis had recognised that agricultural growth was constrained by the availability of most basic kinds of inputs.
+- Thus  agricultural  growth  was  itself  linked  to industrialisation even though the extent could have been debated.
+
+---
+
+<div style="background-color: #cfc ; padding: 10px; border: 1px solid black;">
+<blockquote>
+The technical linkages between agriculture and industry are such that even a 4 percent rate of growth in agriculture is not possible without  a  high  rate  of  growth  in  industries  which  supply  the  input requirements  of  a  growing  agriculture  in  the  form  of  cement,  bricks, pipes,  pumps,  electric  power  generation  and  transmission  equipment, agricultural implements, diesel oil, fertiliser, pesticides, roads, vehicles,etc.  And  a  seven  percent  growth  in  industry  is  not  possible  without  a high rate of agricultural growth, because nearly half the modern industrial sector  either  processes  agricultural  output  or  supplies  agricultural inputs. - Raj Krishna.
+</blockquote></div>
+
+---
+
+- The Nehru-Mahalanobis model could not have missed out on this;
+<div style="background-color: #cfc ; padding: 10px; border: 1px solid black;">
+<blockquote>
+“It was appreciated that, in India, surplus is the key to industrialization. It is not only essential to grow  enough  food  and  fibres  for  our  own  requirements  but  it  is  also necessary to produce a surplus in the form of either industrial or foodcrops. In India agriculture and manufacturing industries are completely interlocked. Economic progress depends on the advance of both. Advance of  one  step  in  agriculture  would  supply  food  and  raw  materials  for advance of one step in manufacturing industries which again, in its turn, would  speed  up  irrigation  and  increase  the  supply  of  fertilizers  and pesticides and help in the promotion of scientific research, which would lead to further advances in agriculture.” - Second Five Year Plan Document.
+</blockquote> </div>
+
+## Increase in Income Levels
+- Although raising the levels of income was an important objective of the Mahalanobis plan, another important objective was to lift the country out of the **balance of payment constraint**.
+- PB notes that this was the very logic of the plan which was seldom recognised.
+    + Autonomy was at the core of Nehruvian vision of economic development and nothing would epitomise this more than a strong balance of  payments position.
+    + if  an  independent  development  was  the  objective  this  would  never  be achieved if India were strapped permanently to a balance of payments deficit.
+
+---
+
+- A rapid increase in the level of income was a **more recognised objective**.
+- This would be realised with **greater investment in the heavy industry** and use of **increased industrial inputs**.
+- But how woud they be resourced?
+
+---
+
+- Given a substantial step-up in the investment in the Second Plan, there were two elements of the plan:
+  + **First** no major foreign assistance was envisaged.
+    + To keep the idea of 'independent development' (without excessive reliance on foreign aid, or even foreign direct investment).
+    + Taking the Second Plan as a case, foreign assistance was put down at less  than  5  percent  of  total  public  expenditure  in  the  proposed  plan budget for 1956-57 to 1960-61 even as the investment rate was to be raised  by  over  fifty  percent  from  7  to  11  percent  of  GDP. 
+
+---
+
+- The **second** point to note is that the *contribution of the public enterprises* was significant, revealing the Indian state’s understanding of their role in the economy.
+  + The item ‘Additional Taxes  and  Loans  &  Profits  from  State  Enterprises’  along  with  the “Contribution  from  the  Railways’  together  equaled  ‘Loans  from  the Public’ and were over twice what was to be taken as foreign assistance.
+  + The central premise of public policy in  the 1950s was that the  public  sector was
+expected to contribute resources to the larger project of national development.
+
+## Nehru's speeches
+- As a chairman of the Planning Commission, Nehru was closely involved in the planning process.
+- His speeches would be of interest for two reasons:
+  - It would reveal the process by which policy was formed.
+  - It would would also provide an idea on how remarkable grasp did Nehru as an active politician had on economic matters.
+
+---
+
+- The speeches reveal that
+  - the idea of industrialisation to raise incomes, was adopted even before the Mahalanobis model was written down.
+  - it conveys the full recognition among the planners of theimportance of agricultural growth to the industrialisation project. 
+  - Contains a clear understanding of the inter-temporal distribution of gains that was central to econommic policy that was being pursued.
+  - It also reflects an understanding of the uniqueness of India in terms of the challanges that it faces, given its economic backwardness and democratic polity.
+  
+---
+
+<div style="background-color: #cfc ; padding: 10px; border: 1px solid black;">
+*"Planning has of course been done in other countries; but not through democratic processes. Other countries which are democratic have not accepted planning. But the combination of these two concepts is rather unique…"* </div>
+
+
+<div style="background-color: #cfc ; padding: 10px; border: 1px solid black;">
+*“Though we all know that agriculture is essential and basic, it hasbeen  rather  neglected.  I  say  neglected  in  the  sense  that  people  hopedthat crops will grow by themselves and not by much effort on our part.Now, greater attention is being paid to it and I hope this will bear results..."*
+</div>
+
+
+## Record of Growth 
+- Two kind of comparisons can be made:
+  + One is the record of preceding growth in that economy itself.  
+  + The  other  is  the  contemporaneous  growth  of  other  economies similarly placed and the growth of leading economies at early stages oftheir own growth.
+
+![Table 1](Table1.PNG)
+
+---
+
+- *First*, growth in the Nehru years amply exceed what was attained in  the  final  half-century  of  colonial  rule.
+- *Second*, an  acceleration  of  growth  across  all  sectors.
+  - the ranking  of  sectors  by  growth  is  reversed.
+  - growth process in tune with Kuznets’s work  on  economic  growth,  high  services  growth  in  a  low-income economy would be treated as pathologicaly.
+  - In a poor economy with alow level of consumption of even the most basic goods, a faster growthof  the  commodity  sectors  is  a  desirable  outcome.
+
+---
+
+- *Third*, the  Nehru  years  witnessed  widespread  growth  across  the  economy,  a technological advance was fostered.
+- *Fourth*, while growth in the Nehru era was distinctly Indian, in that it was not dependent on either foreign  trade  or  foreign  aid,  it  certainly  was  “not  all  that  industrial”. Indeed the greatest expansion of the economy in the Nehru years is not in industry at all.
+  -  the data reveal that growth acceleration inthe Primary sector, largely comprising agriculture, had exceeded that of the Secondary sector, more or less synonymous with industry. This hasgenerally  gone  unrecognised.
+
+## 2nd comparison: the performance of other economies.
+![Table 2](Table2.PNG)
+
+
+---
+
+- Two types of econommies considered for comparison:
+  - First, the set of Asian economics which were almost at par with India in terms of per capita income in 1950.
+  - The second is a set of the world’s best-performing economies of all time.
+- The comparison among the asian economies is of greater interest because
+  i. The data are for the same period.
+  ii. In terms of per capita Income, China and Korea had per capita incomes at par with India during the period.
+
+---
+
+- According to Delong (2004), India grew faster than most of African economies but performed poorly than the East Asia during the last five decades.
+- China could take over India only during the 1970s which was not possible in the Nehru era.
+
+
+```{r, echo=FALSE, include=FALSE, eval=-c(1,5,6)}
+install.packages("htmltab")
+library(htmltab); library(tidyverse); library(lubridate)
+t <- htmltab("https://www.thebalance.com/us-gdp-by-year-3305543", 1)
+class(t)
+t1 <- mutate(t, Year = as.Date("YearÂ", "%Y")) 
+t2 <- mutate(t1, Year = substr(Year, start = 1, stop = 4))
+t3 <- filter(t, Year >= 1950) %>%
+  filter(Year <= 1964) %>%
+  select(c(Year, growth = `GDP Growth Rate`)) %>%
+  mutate(growth = str_sub(growth, start = -4, end = -2))
+
+t3$growth1 <- as.numeric(if_else(t3$growth < 1, paste("-", t3$growth, sep = ""), t3$growth))
+mean <- mean(t3$growth1)
+
+
+```
+- During the same period (1950-1964) the US grew on an average of `r mean`% (This number for the US is calculated by me using the data obtained from https://www.thebalance.com/us-gdp-by-year-3305543).
+
+---
+
+- PB raises a few methodological concerns regarding the construction of Table 2.
+  + Note that in Table2  PB  has  compared  growth  in  India  during  the  Nehru  years  with  very long term growth of the advanced OECD economies. 
+  + At the first instance, it seems that the comparison has been in favour of India.
+  + But it is interesting to note that since the growth of the industrialised economies has accelerated over the last couple of centuries $\Rightarrow$ the longer the time period we consider, the likelihood of observing a higher growth rate.
+  
+---
+
+  + The high growth rate during 1950-64 could be because of a low base.
+  + from  an “economic” standpoint, “initiating" growth in the presence of increasing returns to scale, a low base is actually a serious impediment to growth.
+  + the lower the scale of production, the lower is the surplus available for investment. Thus, high growth on a low base is significant.
+  
+## Caricature of a vision: Through a glass darkly
+- in this final section, PB discusses the *misperceptions* regarding the Nehru-Mahalanobis strategy, and also about the *outcome of the policies*.
+
+## The Neglect of Agriculture
+- PB states that a sector in an economy can be *neglected* in two ways:
+  1. Ignored in the policy discourse itself.
+  2. Insufficient allocation of resources devoted to the sector.
+- According to PB, agriculture has received both *attention* and *resource allocation* during the Nehru era.
+<div style="background-color: #cfc ; padding: 10px; border: 1px solid black;">
+*…of the total investment undertaken during the first three Five-Year Plans…agriculture, including irrigation, accounted for Rs 3,446 crore, or  22.7%, while economic infrastructure, like transport and communications, and power, accounted for Rs 5,737 crore or 37.7% and social services for Rs 2,760 crore or 18.1%. Industry accounted for only Rs 2,651 crore or 17.2% of investment in the public sector during the 15 years covered by the three Plans* **[Rao 1971:72].**</div>
+
+---
+
+- agricultural production was relatively free from controls in the Nehru era while private industry was subject to stringent policy controls, notably licensing.
+- agricultural  sector  grew very impressively  under Nehru, recording the highest growth among all sectors(growth rate of agriculture sector improved from 0.4 to 2.6 i.e. a 6.5 times increase) and making a dramatic recovery from the colonial era. 
+- George Blyn's findings on agricultural output during the first half of the 20th century.
+  1. The rate of  growth of food grains  as a whole is  far lower than the rate of growth of population implying, declining availability.
+  2. The growth of non food grains is far better.
+
+## Public sector enterprise as a black hole
+- The *second* misperception of the policies of the Nehru era pertains to the  idea  of  the  public  sector.
+- The author analyses the original idea of the public sector and its performance record during the Nehru period within the overall project of resource mobilization. 
+- PB notes that both the public and the private sectors a re equally important for industrialisation.
+- However, in the context of Indian industrialisation, launched in the 1950s, a large part of this mobilisation would necessarily have had to be in the public sector as it was intended that the state would have the leading role here. 
+
+---
+
+- For such a planning to be effective, an adequate *fund base* for the economy is required.
+- This requirement for *low level* economies tend to be significantly high.
+- The author focuses on two main issues:
+  1. views on resource mobilisation and the role of the public  sector  enterprises  within  that overall  objective  of  both  the government and of independent economists then active.
+  2. study the evidence on both resource mobilisation and the contribution of the public sector to it.
+  
+---
+
+- As the Second Five-Year Plan constituted the single largest instance of resource mobilisation during the Nehru era, it’s documentation is likely to be the best source of the government’s view on the question of interest to us here.
+<div style="background-color: #cfc; padding: 10px; border: 1 px solid black;">
+*“Large  financial  resources  would  be  required  for  the  Second  Plan.  A small portion would come from sterling balances or foreign loans and aid; and the bulk of the resources must be found from within the economy.The  tax  system  would  be  directed  to  collect  an  increasing  part  of  the growing national income in order to permit greater capital formation in the  public  sector  and  to  finance  an  expansion  of  social  services.  The Republic sector would be extended to industrial and commercial activities where  necessary  for  raising  resources  for  public  purposes.” *</div>
+
+---
+
+- the official idea of the public sector was not welfarist. 
+- In particular,the idea of having a public sector at all was to raise resources for public purposes. 
+- The need for very significant resource mobilisation and the role of the public sector in relation to that task was also recognised by the independent  economists  of  the  day.
+
+<div style="background-color: #cfc; padding : 10px; border:1 px solid black;">
+*“  ...  the  effort involved in this increase is considerable, and will strain the economy a very  great  deal  ....”*</div>
+
+---
+
+- the  economists  impaneled  by  the  Planning Commission  had  spoken  of:
+  + the  great  difficulty  of  increasing  tax proceeds unless a fundamental revision in current concepts that underlie the tax system is accepted.
+    +  the exemption of essentials from the scope of an important part of commodity taxation
+  + the *general increase in  rates  of  direct  and  indirect  taxation*  that  will  be  involved  in the considerable stepping up of tax effort will be part of the challenge to administrative  efficiency that  the  big  development  effort  for  putting through the next Plan entails.
+  
+---
+
+- Apart from the replication of the views of  the government on the role of the public sector, quoted earlier, two points may be noted. 
+- First, the independent economists had recognised  the  serious  resource  mobilization  effort    entailed  in  the  plan  to industrialise. 
+- Secondly, note the complete absence of populism in the recommendation that in the short-run even the convention of excluding essentials from taxation may have to be put in abeyance. 
+
+---
+
+- Finally, it is most instructive in the context to read Mahalanobis: 
+
+<div style="background-color: #cfc; padding : 10px; border:1 px solid black;"> 
+*“In the highly developed countries of the West, taxes on commodities are usually looked upon as “regressive”, as being a burden on the poor. Public enterprises are also expected to be run on a no-loss-no-profit  basis.  Fortunately,  our  outlook  is  changing  and  it  is  being realised that in an underdeveloped country like India excise and customs duties,  purchase  tax  on  commodities  or  a  levy  on  services  would  be convenient and adaptable methods to raise resources. It is also agreed in principle that public enterprises should earn and contribute increasing returns for purposes of national development.”* </div>
+
+## Performance of Pubic Sector
+- How did the public sector perform during the Nehru era?
+  + There was a huge surge in *investment* which was not surpasses even in the next 15 years as noted by PB.
+  + The share of savings in the total savings had risen [Rao and Sen (1995)].
+  + Though the extent of this increase is not much greater than that of the private corporate sector, it  is  still  noteworthy  that  the  expansion  of  investment  was  led  by  an expansion of public  saving, as was intended. 
+  
+![Table 7](Table7.PNG)
+
+---
+
+- The public sector has been classified further into 
+  + the public authorities - comprising government administration and departmental  commercial enterprises -and  
+  + the  non-departmental  enterprises  -  comprising  government companies and statutory corporations.
+- Note from Table 7 that while the expansion of  savings in the public sector as a whole is as it is faster than the expansion  in  savings of  the  private  corporate sector, within the public  sector the non-departmental enterprises (PSEs) turn in a vastly superior performance compared to all groups.
+-  PB is of the opinion that  public sector was originally conceived of as an active agent of resource mobilisation   for   development.   
+- Its   transmigration   into   an  employment-granting   welfarist agency was to come only after the death of Nehru.
+
+---
+
+- PB states that in the face of such strident commentary it is worth repeating that during the Nehru era the savings of the public enterprises actually grew faster than that of the private corporate sector.
+- PB concludes by stating that the public sector was a strategic intervention in the cause of growth, and that during the Nehru era it had delivered to a reasonable extent.
+
+## Neglect of Primary education
+- One area which was severely neglected is the *primary education*.
+- Krishnamurthy (an economist with the Bombay school) wrote in 1955:
+
+<div style="background-color: #cfc; padding: 10px; border: 1 px solid black;">
+*"… how absurdly low are the sums allocated for education in the Mahalanobis plan".* 
+</div>
+
+<div style="background-color: #cfc; padding: 10px; border: 1 px solid black;">
+*“A  concerted effort to educate the mass of the population,  specially in the rural areas, would undoubtedly have far-reaching benefits of a cumulative expansionist character. This would   greatly  lighten   the   task   of   the   government   in   bringing   about   rapid   economic development.”* </div>
+
+---
+
+- Pointing   to   the   government’s   lack   of   even-handedness   in   dealing   with   education   in comparison with “heavy industries or river valley projects” for which it was willing to adopt deficit financing, he speculates whether this has to do with the fact that “being brought up in the traditions of mid- Victorian finance” it continues to “apply the calculus of the private grocery merchant to a matter like education”. 
+
+---
+
+- Interestingly, in all the counterfactual scenarios that are sketched for India it is openness to trade that tends to get emphasised, the implicit suggestion being that the possibilities of trade were
+neglected.  
+- However,  the  *absence of primary   education   from  these exercises   of  counterfactual analysis* is striking.
+
+---
+
+- One cannot overlook the likelihood that the very face of India, not to mention the rate of growth of output via human capital accretion, may have been vastly different had much more attention been paid to primary education at the very outset. 
+  - As   this   study   is   also   an   evaluation   of   the   contribution   of   Nehru   to   the growth   and transformation of India, PB is reminded of the comment made to me by a civil servant in Bangalore that *the man whose birthday is celebrated as Children’s Day in India had actually managed to do very little for her very young.* 
+  - It is of course technically true that, given the constitutional distribution of powers in India, **“Education” – being a “state subject”**  – was then at least partially a responsibility of the states,  but this does not absolve  the policymaker of  the  Nehru era of  a grave  error  of judgment regarding the factors that drive growth, leave alone development. 
+  - Of course, even into the 21st century, we continue to neglect the primary education.
+  
+## Conclusion
+- The public policy of the Nehru era created a stagnant colonial economy.
+- The era ushered in - *A  proliferating   bureaucracy,   corruption,   closedness   to   foreign   capital   and   the   consequent technological backwardness in production, the lack of competition and the consequent shoddiness of the consumer goods, an unaccountable public sector and the consequent low productivity.*
+- But it also cannot be denied that the policies got the economy moving.
+- "Lurch to the left" (increased trade and industrial control policies) characterised the economy after Nehru's death.
+
+---
+
+- However, one thing is clear.  Many of these policies [post Nehru] were at opposite from those of the Nehru era, notably the deteriorating performance of the public sector and the use of public monies to buy out economic disaffection with subsidies. 
+- This came to be termed ‘Nehruvian socialism’ even though the elimination of  economic  waste,  unaccountable  governance  and  inefficiency  of resource  use  were  the  very  arguments  for  socialism  in  the  first  place, and not just in India.
+
+## Achievements of Nehru Era
+- According to PB, the Nehru era witnessed the recovery of India, and the igniting of the growth process.
+-  Drawing a likeness between the policies of the Nehru era and the Soviet Union is false as growth in India has been sustained in a way that it was not in  the former Soviet Union. Actually, India’s growth rate has accelerated and it may be suggested that this is not incompatible with the Nehru- Mahalanobis strategy.
+- There has been a significant acceleration of the agricultural production in the Nehru era.
+- Unprecedented mobilisation of resources, as observed in the hike in investment.
+
+## Questions
+1. What were the main features of the Nehru-Mahalanobis plan? Discuss some criticisms of the model.
+2. Outline the differences and similarities of the Nehru-Mahalanobis and the Vakil-Brahmananda strategy.
+3. What do Nehru's speeches reveal about the planning process during that period?
+4. Discuss the performance of agriculture and public sector during the Nehru era.
+5. Make an assessment of the achievements and failures of the economic policy in the Nehru era.
