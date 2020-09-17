@@ -95,7 +95,7 @@ output: ioslides_presentation
 
 ---
 
-The author agrees to the first point (given below), but considers the second point to be an **ill-informed judgement** which he plans to explain later in the text.
+The author agrees to the first point (given below), but considers the second point to be an **ill-informed judgment** which he plans to explain later in the text.
 
 1. The Indian planners must have been carried away by the idea that the state (in command economy) could direct inverstment indefinitely and at will.
 2. They also failed to recognise the importance of agriculture.
