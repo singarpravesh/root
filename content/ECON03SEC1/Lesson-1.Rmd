@@ -13,3 +13,5 @@ output: html_document
 - Download the file [Historicalinvest.xlsx](Historicalinvest.xlsx) that is used in the video and practice.
 - Exercise:
     - Use the [States.xlsx](States.xlsx) file to calculate the total sales in Arizona, California, Montana, New York, and New Jersey. Compute the total sales in a form such as AZ+CA+MT+NY+NJ instead of SUM(A21:A25).
+
+## 1.2 Next Lesson
