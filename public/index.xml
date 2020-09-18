@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on PT Courses</title>
+    <link>/</link>
+    <description>Recent content in Home on PT Courses</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2020, Root; all rights reserved.</copyright>
+    <lastBuildDate>Fri, 18 Sep 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Lesson 1</title>
+      <link>/econ03sec1/lesson-1/</link>
+      <pubDate>Fri, 18 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/econ03sec1/lesson-1/</guid>
+      <description>1.1 Creating named ranges.Download the file Historicalinvest.xlsx that is used in the video and practice.Exercise:Use the States.xlsx file to calculate the total sales in Arizona, California, Montana, New York, and New Jersey. Compute the total sales in a form such as AZ+CA+MT+NY+NJ instead of SUM(A21:A25).1.2 Next Lesson</description>
+    </item>
+    
+    <item>
+      <title>Introduction</title>
+      <link>/econ03sec1/introduction/</link>
+      <pubDate>Thu, 17 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/econ03sec1/introduction/</guid>
+      <description>We shall use Microsoft Excel 2013 during the course. So I would suggest the class to install the 2013 version in their computers.Go through the syllabus uploaded in the university website.The reference book is Microsoft Excel 2013: Data Analysis and Business Modeling by Wayne L. Winston.What should you know before reading this book?Formulas should begin with an = sign.* is used for multiplication, / for division, ^ is used to raise a quantity to a power.</description>
+    </item>
+    
+    <item>
+      <title>1947–2016 A Tour d’Horizon</title>
+      <link>/econ03ge3a/long-road1947-2016/</link>
+      <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/econ03ge3a/long-road1947-2016/</guid>
+      <description>ReferenceIndia’s Long Road: The Search for Prosperity by Vijay Joshi
+IntroductionFrom around 1950, the growth rate of national income went up from the funeral 1 per cent a year (less than 0.2 per cent per head) that prevailed in the first half of the century to 3.5 per cent a year (1.4 per cent per head) for 30 years thereafter.This growth was a welcome break; India had now entered a new era of a self-governing country.</description>
+    </item>
+    
+    <item>
+      <title>Economic Planning</title>
+      <link>/econ03ge3a/economic-planning/</link>
+      <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/econ03ge3a/economic-planning/</guid>
+      <description>ReferenceChapter 4 of the book Indian Economy by Ramesh Singh
+OutlineDefinitions of Economic Planning.Planning processes &amp;amp; FeaturesOrigin &amp;amp; expansion of planningDifferent types of planningNormative Indian planning in recent times.What is economic plannning?Definition given by H.D. Dickinson is agreed to be one of the best definitions:“the making of major economic decisions—what and how much is to be produced and to whom it is to be allocated by the conscious decision of a determinate authority, on the basis of a comprehensive survey of the economic system as a whole.</description>
+    </item>
+    
+    <item>
+      <title>Indian Planning</title>
+      <link>/econ0503/1-indian-planning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/econ0503/1-indian-planning/</guid>
+      <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
+When you click the Knit button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:</description>
+    </item>
+    
+    <item>
+      <title>Links</title>
+      <link>/econ03ge3a/links/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/econ03ge3a/links/</guid>
+      <description>Download the files foe Long Road</description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>/econ04c10/econ04c10/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/econ04c10/econ04c10/</guid>
+      <description>Revision on charts</description>
+    </item>
+    
+    <item>
+      <title>The Recovery of India: Economic Growth in the Nehru Era</title>
+      <link>/econ03ge3a/recovery-of-india/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/econ03ge3a/recovery-of-india/</guid>
+      <description>ReferencesVisible Hand: Public Policy and Economic Growth in the Nehru ReaThe Recovery of IndiaIntroductionPaper written by PB in 2007 when Indian economy was growing at around 9% (constant prices).A certain despondency induced by a sense of an allegedly “wasted past”.Some have blamed Nehru and the policies adopted under his leadership.These are serious allegations that need to be addressed.Economic growth researchers more interested in growth transitions.</description>
+    </item>
+    
+  </channel>
+</rss>

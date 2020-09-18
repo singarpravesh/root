@@ -1,0 +1,17 @@
+---
+title: "Lesson 1"
+author: "pravesh"
+date: "2020-09-18"
+output: html_document
+---
+
+
+## 1.1 Creating named ranges.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uRci9PnZQ7U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+- Download the file [Historicalinvest.xlsx](Historicalinvest.xlsx) that is used in the video and practice.
+- Exercise:
+    - Use the [States.xlsx](States.xlsx) file to calculate the total sales in Arizona, California, Montana, New York, and New Jersey. Compute the total sales in a form such as AZ+CA+MT+NY+NJ instead of SUM(A21:A25).
+
+## 1.2 Next Lesson

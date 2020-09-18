@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ECON03SEC1s on PT Courses</title>
+    <link>/econ03sec1/</link>
+    <description>Recent content in ECON03SEC1s on PT Courses</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2020, Root; all rights reserved.</copyright>
+    <lastBuildDate>Fri, 18 Sep 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/econ03sec1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Lesson 1</title>
+      <link>/econ03sec1/lesson-1/</link>
+      <pubDate>Fri, 18 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/econ03sec1/lesson-1/</guid>
+      <description>1.1 Creating named ranges.Download the file Historicalinvest.xlsx that is used in the video and practice.Exercise:Use the States.xlsx file to calculate the total sales in Arizona, California, Montana, New York, and New Jersey. Compute the total sales in a form such as AZ+CA+MT+NY+NJ instead of SUM(A21:A25).1.2 Next Lesson</description>
+    </item>
+    
+    <item>
+      <title>Introduction</title>
+      <link>/econ03sec1/introduction/</link>
+      <pubDate>Thu, 17 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/econ03sec1/introduction/</guid>
+      <description>We shall use Microsoft Excel 2013 during the course. So I would suggest the class to install the 2013 version in their computers.Go through the syllabus uploaded in the university website.The reference book is Microsoft Excel 2013: Data Analysis and Business Modeling by Wayne L. Winston.What should you know before reading this book?Formulas should begin with an = sign.* is used for multiplication, / for division, ^ is used to raise a quantity to a power.</description>
+    </item>
+    
+  </channel>
+</rss>
